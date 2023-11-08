@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className='max-width header'>
       <img src={logo} alt='zomato-logo' className='header-logo' />
-     //<img src='https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png?fit=around|198:42&crop=198:42;*,*' alt='zomato-logo' className='header-logo' />
+   
     <div className='header-right'>
       <div className='header-location-search-container'>
         <div className='location-wrapper'>
