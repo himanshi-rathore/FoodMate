@@ -1,4 +1,4 @@
-# Zomato-Clone
+# FoodMate
 •Build this singlepage website by using ReactJs and Zomato’s API to get restaurant information.
 
 •Project involves basic understanding of ReactJs and Javascript and used CSS to style this clone.
