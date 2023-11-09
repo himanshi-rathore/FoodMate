@@ -5,8 +5,10 @@
 
 ## Screenshots
 ### Home
-![Screenshot (30)](https://github.com/himanshi-rathore/zomato_clone/assets/108826224/a91155cc-72d2-4b18-90a4-2fbdf614d234)
+![Screenshot (43)](https://github.com/himanshi-rathore/FoodMate/assets/108826224/135594a0-63ce-4983-9a9a-3e794c203401)
+
 ### Dining Out
-![Screenshot (33)](https://github.com/himanshi-rathore/zomato_clone/assets/108826224/175896d7-d578-4596-b0b3-191af116a444)
+![Screenshot (45)](https://github.com/himanshi-rathore/FoodMate/assets/108826224/4eaaeea3-4202-425f-8cd2-dc0817f93e6d)
+
 ### Night Life
-![Screenshot (34)](https://github.com/himanshi-rathore/zomato_clone/assets/108826224/d081a5e3-83b1-4ce1-87c3-6426d98cd6d0)
+![Screenshot (46)](https://github.com/himanshi-rathore/FoodMate/assets/108826224/35b2d89c-ef79-457e-a759-da698b16c639)
